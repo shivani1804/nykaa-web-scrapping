@@ -19,7 +19,7 @@ The script will start scraping data from the NykaaFashion website, and the colle
 
 You can then analyze, visualize, or use the collected data for your specific needs.
 
-Customization
+## Customization
 You can customize the script to scrape data from other sections or categories of the NykaaFashion website by modifying the URL in the script.
 
 Adjust the sleep duration between requests (currently set to 1 second) to comply with website scraping guidelines.
